@@ -1,0 +1,44 @@
+# Virtual environment
+venv/
+.env
+env/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff
+db.sqlite3
+media/
+staticfiles/
+*.log
+
+# Environment and secret files
+.env.local
+.env.development
+.env.production
+secrets.json
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Testing and coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.cache
+
