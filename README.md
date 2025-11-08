@@ -21,3 +21,4 @@ This is a simple Django project that serves as the backend for a basic banking s
 - Add Account and Transaction models
 - Implement transfer logic
 - Build API endpoints
+- test git
